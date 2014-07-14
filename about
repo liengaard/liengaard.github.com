@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Baubauhaus.</title>
+
+    <meta name="description" content="Baubauhaus is here to feed your daily need of design, illustration, photography, fashion and of all else art-related. Our goal is to visually inspire and entertain by promoting great content. It can be anything from your bookmark of images made by others (us), a trend, you - we call it Baubauhaus."/>
+
+    <script>
+    var a=new Date;if(18==a.getDate()&&0==a.getMonth()&&2012==a.getFullYear())window.location="http://sopastrike.com/strike";
+    </script>
+
+    <script src="http://static.baubauhaus.com/javascripts/head.min.js"></script>
+
+    <link rel="image_src" href="http://static.baubauhaus.com/images/banner.png" />
+    <link rel="shortcut icon" href="http://static.baubauhaus.com/favicon.ico" />
+    <link rel="stylesheet" href="http://static.baubauhaus.com/stylesheets/baubauhaus.css" type="text/css">
+    
+    <link rel="alternate" type="application/atom+xml" title="Baubauhaus. images feed" href="/feed" />
+    
+    <style type="text/css">
+      #content             { margin-left:-0px; width:0px;}
+      #logo                { margin:0px 0px 0px -113px; width: 113px }
+      header div           { margin:0px 0px 0px 113px; }
+      header nav#main-nav  { padding:0px 0px; }
+    </style>
+    
+  </head>
+  <body id="about-page">
+    <header>
+      <div>
+        <a id="logo" href="/">Baubauhaus.</a>
+      </div>
+      <nav id="main-nav">
+        <ul class="main-menu">
+          
+          <li><a href="/">Wall</a></li>
+          <li class="drop">
+            <span>Collections</span>
+            <ul class="submenu">
+              <li><a href="/photography">Photography</a></li>
+              <li><a href="/graphic-design">Graphic Design</a></li>
+              <li><a href="/illustration">Illustration</a></li>
+              <li><a href="/poster">Poster</a></li>
+              <li><a href="/typography">Typography</a></li>
+              <li><a href="/black-and-white">Black&amp;white</a></li>
+            </ul>
+          </li>
+          <li><a href="/popular/today">Popular</a></li>
+          <li><a href="/about">About</a></li>
+          <li id="search-box">
+            <a href="#search">Search</a>
+            <form action="/search" method="get">
+              <input name="q" class="q" type="text" value="" autocomplete="off" />
+              <input type="submit" class="go" value="Search" />
+            </form>
+          </li>
+        </ul>
+        <ul class="social">
+          <li><a rel="external" href="http://www.facebook.com/baubauhaus">Facebook</a></li>
+          <li><a rel="external" href="http://www.twitter.com/baubauhaus">Twitter</a></li>
+          <li><a rel="external" href="/feed">RSS</a></li>
+        </ul>
+        
+      </nav>
+
+    </header>
+    <section id="content">
+    <section id="about">
+      <div>
+        <h2>About</h2>
+        <span>&mdash;</span>
+
+        <p>Baubauhaus is here to feed your daily need of design, illustration, photography, fashion
+        and of all else art-related. Our goal is to visually inspire and entertain by promoting great
+        content. It can be anything from your bookmark of images made by others (us), a trend,
+        you - we call it Baubauhaus.</p>
+        <p>For the moment, behind this lovely “garden” full of images sit two guys from Romania -
+        Stefan Lucut &amp; Andrei Don. We are doing this in our free time so be patient with us. One
+        thing is for sure, we are working to continuously improve your browsing experience and
+        grow this “garden”.</p>
+        <p>Now if you think you are good enough to be featured on Baubauhaus or you have a friend
+        who is better than you or you just got a favorite artist you would like to share with us,
+        drop us an email at <strong>hey[at]baubauhaus.com</strong></p>
+        <p><em>Note: don’t be sure you’ll be featured on our wall. What is cool for you could be uncool for us.</em></p>
+      </div>
+
+      <div>
+        <h2>Disclaimer</h2>
+
+        <span>&mdash;</span>
+
+        <p>Unless otherwise noted, <strong>everything you see or read on Baubauhaus is copyrighted by its
+        respective owner</strong>. The original source of each item can be found under the “via” link.
+        You can track it back to where we found it – which at times means a different location
+        from its owner’s. We believe in giving credit where credit is due so please email us at
+        <strong>hey[at]baubauhaus.com</strong> if your work is featured on Baubauhaus without a proper reference
+        to its source. To file a copyright infringement notification with us, please send an email
+        containing the following requirements:
+
+        <ul>
+          <li>— The complete URL on Baubauhaus to the item <br />(eg. http://baubauhaus.com/image/420)</li>
+          <li>— Information about the original copyrighted work, including the full name of the person / company / party holding the copyright.</li>
+          <li>— Your full name used as guarantor that the above is accurate and not deceptive or false.</li>
+        </ul>
+
+      </div>
+      <div>
+        <h2>Feedback</h2>
+        <span>&mdash;</span>
+        <div id="feedback">
+          
+          <p class="larger">Do you like our new website?</p>
+          <form id="feedback-form" action="/feedback" method="post" data-step="1">
+            <fieldset data-step="1" class="step-1">
+              <input type="submit" name="yes" value="Yes" class="yes" />
+              <input type="submit" name="no" value="No" class="no" />
+            </fieldset>
+            <fieldset data-step="2" class="step-2">
+              <textarea name="details"></textarea>
+              <input name="send" type="submit" value="Send" class="send" />
+            </fieldset>
+          </form>
+          
+        </div>
+      </div>
+    </section>    </section>
+
+    <script>
+      
+      head.js(
+        "http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
+        "http://static.baubauhaus.com/javascripts/history.min.js",
+        "http://static.baubauhaus.com/javascripts/jquery.plugins.min.js",
+        
+        "http://static.baubauhaus.com/javascripts/baubauhaus.min.js",
+        function() {
+          jQuery(document).ready(function() {  layout.init(); });
+
+          head.js(
+            "http://www.google-analytics.com/ga.js",
+            function() {
+              var tracker = _gat._getTracker("UA-1595815-2");
+              tracker._setDomainName('www.baubauhaus.com');
+              tracker._trackPageview();
+
+              jQuery(document).ready(function() { $(document).ajaxSend(function(event, xhr, settings){ tracker._trackPageview(settings.url); });
+            })
+          });
+
+        }
+      );
+
+      
+
+    </script>
+  </body>
+</html>

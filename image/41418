@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Baubauhaus.</title>
+
+    <meta name="description" content="Baubauhaus is here to feed your daily need of design, illustration, photography, fashion and of all else art-related. Our goal is to visually inspire and entertain by promoting great content. It can be anything from your bookmark of images made by others (us), a trend, you - we call it Baubauhaus."/>
+
+    <script>
+    var a=new Date;if(18==a.getDate()&&0==a.getMonth()&&2012==a.getFullYear())window.location="http://sopastrike.com/strike";
+    </script>
+
+    <script src="http://static.baubauhaus.com/javascripts/head.min.js"></script>
+
+    <link rel="image_src" href="http://static.baubauhaus.com/assets/41418_125.jpg" />
+    <link rel="shortcut icon" href="http://static.baubauhaus.com/favicon.ico" />
+    <link rel="stylesheet" href="http://static.baubauhaus.com/stylesheets/baubauhaus.css" type="text/css">
+    
+    <link rel="alternate" type="application/atom+xml" title="Baubauhaus. images feed" href="/feed" />
+    
+    <style type="text/css">
+      #content             { margin-left:-0px; width:0px;}
+      #logo                { margin:0px 0px 0px -113px; width: 113px }
+      header div           { margin:0px 0px 0px 113px; }
+      header nav#main-nav  { padding:0px 0px; }
+    </style>
+    
+  </head>
+  <body id="image-page">
+    <header>
+      <div>
+        <a id="logo" href="/">Baubauhaus.</a>
+      </div>
+      <nav id="main-nav">
+        <ul class="main-menu">
+          
+          <li><a href="/">Wall</a></li>
+          <li class="drop">
+            <span>Collections</span>
+            <ul class="submenu">
+              <li><a href="/photography">Photography</a></li>
+              <li><a href="/graphic-design">Graphic Design</a></li>
+              <li><a href="/illustration">Illustration</a></li>
+              <li><a href="/poster">Poster</a></li>
+              <li><a href="/typography">Typography</a></li>
+              <li><a href="/black-and-white">Black&amp;white</a></li>
+            </ul>
+          </li>
+          <li><a href="/popular/today">Popular</a></li>
+          <li><a href="/about">About</a></li>
+          <li id="search-box">
+            <a href="#search">Search</a>
+            <form action="/search" method="get">
+              <input name="q" class="q" type="text" value="" autocomplete="off" />
+              <input type="submit" class="go" value="Search" />
+            </form>
+          </li>
+        </ul>
+        <ul class="social">
+          <li><a rel="external" href="http://www.facebook.com/baubauhaus">Facebook</a></li>
+          <li><a rel="external" href="http://www.twitter.com/baubauhaus">Twitter</a></li>
+          <li><a rel="external" href="/feed">RSS</a></li>
+        </ul>
+        
+      </nav>
+
+    </header>
+    <section id="content">
+
+      <div id="image">
+        <div class="header">
+          
+          <h1>Seymour Chwast </h1><span>&mdash;</span>
+          
+          <time datetime="2014-06-11T15:19:32+02:00">@1 month ago</time><span>&mdash;</span>
+          
+          <ul class="tags">
+            
+            
+            <li><a href="/illustration">illustration</a>,</li>
+            
+            <li><a href="/poster">poster</a>,</li>
+            
+            <li><a href="/graphic-design">graphic design</a>,</li>
+            
+            <li><a href="/yellow">yellow</a>,</li>
+            
+            <li><a href="/seymour-chwast">Seymour Chwast</a></li>
+          </ul>
+          
+          <div id="fb-root"></div>
+          <fb:like href="http://www.baubauhaus.com/image/41418" layout="button_count" show_faces="false" width="100" font=""></fb:like>
+          <a href="http://pinterest.com/pin/create/button/?url=http://www.baubauhaus.com/image/41418&media=http://static.baubauhaus.com/assets/41418_415.jpg" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+        </div>
+        <div class="content">          
+          <div class="image-wrapper">
+            <img width="415" src="http://static.baubauhaus.com/assets/41418_415.jpg" />
+
+            <div class="overlay">
+              
+              <span class="likes">11</span>
+              <span class="like" data-like-url="/image/41418/like">like it!</span>
+              
+              <div class="via">
+                
+                <em>via</em><a id="source-link" rel="external" title="http://dergestaltingenieur.com/post/32124891840" href="http://dergestaltingenieur.com/post/32124891840">dergestaltingenieur.com</a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="related-images">
+          
+          <ul id="column-0" class="column first">
+            
+            <li class="image">
+              <a href="/image/37231">
+                <div class="overlay">
+                  
+                  <span class="likes">41</span>
+                  <span class="like" data-like-url="/image/37231/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/37231_125.jpg" width="125" height="172" alt="37231" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/36415">
+                <div class="overlay">
+                  
+                  <span class="likes">49</span>
+                  <span class="like" data-like-url="/image/36415/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/36415_125.jpg" width="125" height="162" alt="36415" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/40840">
+                <div class="overlay">
+                  
+                  <span class="likes">24</span>
+                  <span class="like" data-like-url="/image/40840/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/40840_125.jpg" width="125" height="177" alt="40840" />
+              </a>
+            </li>
+            
+          </ul>
+          
+          <ul id="column-1" class="column ">
+            
+            <li class="image">
+              <a href="/image/40831">
+                <div class="overlay">
+                  
+                  <span class="likes">36</span>
+                  <span class="like" data-like-url="/image/40831/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/40831_125.jpg" width="125" height="185" alt="40831" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/40839">
+                <div class="overlay">
+                  
+                  <span class="likes">28</span>
+                  <span class="like" data-like-url="/image/40839/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/40839_125.jpg" width="125" height="179" alt="40839" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/38387">
+                <div class="overlay">
+                  
+                  <span class="likes">29</span>
+                  <span class="like" data-like-url="/image/38387/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/38387_125.jpg" width="125" height="177" alt="38387" />
+              </a>
+            </li>
+            
+          </ul>
+          
+          <ul id="column-2" class="column ">
+            
+            <li class="image">
+              <a href="/image/41188">
+                <div class="overlay">
+                  
+                  <span class="likes">63</span>
+                  <span class="like" data-like-url="/image/41188/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/41188_125.jpg" width="125" height="177" alt="41188" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/36791">
+                <div class="overlay">
+                  
+                  <span class="likes">59</span>
+                  <span class="like" data-like-url="/image/36791/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/36791_125.jpg" width="125" height="185" alt="36791" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/41241">
+                <div class="overlay">
+                  
+                  <span class="likes">35</span>
+                  <span class="like" data-like-url="/image/41241/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/41241_125.jpg" width="125" height="179" alt="41241" />
+              </a>
+            </li>
+            
+          </ul>
+          
+          <ul id="column-3" class="column last">
+            
+            <li class="image">
+              <a href="/image/9250">
+                <div class="overlay">
+                  
+                  <span class="likes">61</span>
+                  <span class="like" data-like-url="/image/9250/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/9250_125.jpg" width="125" height="158" alt="9250" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/40876">
+                <div class="overlay">
+                  
+                  <span class="likes">32</span>
+                  <span class="like" data-like-url="/image/40876/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/40876_125.jpg" width="125" height="247" alt="40876" />
+              </a>
+            </li>
+            
+            <li class="image">
+              <a href="/image/40841">
+                <div class="overlay">
+                  
+                  <span class="likes">31</span>
+                  <span class="like" data-like-url="/image/40841/like">like</span>
+                  
+                </div>
+                <img class="image-wrapper" src="http://static.baubauhaus.com/assets/40841_125.jpg" width="125" height="152" alt="40841" />
+              </a>
+            </li>
+            
+          </ul>
+          
+          <div id="ads">
+            <div id="bsap_1248763" class="bsarocks bsap_998d3646949f19f1bb663d50c8d2b52c"></div>          
+          </div>          
+        </div>
+      </div>
+          </section>
+
+    <script>
+      
+      head.js(
+        "http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
+        "http://static.baubauhaus.com/javascripts/history.min.js",
+        "http://static.baubauhaus.com/javascripts/jquery.plugins.min.js",
+        
+        "http://static.baubauhaus.com/javascripts/baubauhaus.min.js",
+        function() {
+          jQuery(document).ready(function() {  layout.init(); });
+
+          head.js(
+            "http://www.google-analytics.com/ga.js",
+            function() {
+              var tracker = _gat._getTracker("UA-1595815-2");
+              tracker._setDomainName('www.baubauhaus.com');
+              tracker._trackPageview();
+
+              jQuery(document).ready(function() { $(document).ajaxSend(function(event, xhr, settings){ tracker._trackPageview(settings.url); });
+            })
+          });
+
+        }
+      );
+
+      
+      head.js('http://s3.buysellads.com/ac/bsa.js');
+      head.js("http://connect.facebook.net/en_US/all.js", function() { FB.init({appId: '106282476120447', status: true, cookie: true, xfbml: true}); });
+      
+
+    </script>
+  </body>
+</html>

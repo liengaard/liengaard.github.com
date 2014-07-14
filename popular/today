@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Baubauhaus.</title>
+
+    <meta name="description" content="Baubauhaus is here to feed your daily need of design, illustration, photography, fashion and of all else art-related. Our goal is to visually inspire and entertain by promoting great content. It can be anything from your bookmark of images made by others (us), a trend, you - we call it Baubauhaus."/>
+
+    <script>
+    var a=new Date;if(18==a.getDate()&&0==a.getMonth()&&2012==a.getFullYear())window.location="http://sopastrike.com/strike";
+    </script>
+
+    <script src="http://static.baubauhaus.com/javascripts/head.min.js"></script>
+
+    <link rel="image_src" href="http://static.baubauhaus.com/images/banner.png" />
+    <link rel="shortcut icon" href="http://static.baubauhaus.com/favicon.ico" />
+    <link rel="stylesheet" href="http://static.baubauhaus.com/stylesheets/baubauhaus.css" type="text/css">
+    
+    <link rel="alternate" type="application/atom+xml" title="Baubauhaus. images feed" href="/feed" />
+    
+    <style type="text/css">
+      #content             { margin-left:-0px; width:0px;}
+      #logo                { margin:0px 0px 0px -113px; width: 113px }
+      header div           { margin:0px 0px 0px 113px; }
+      header nav#main-nav  { padding:0px 0px; }
+    </style>
+    
+  </head>
+  <body id="wall-page">
+    <header>
+      <div>
+        <a id="logo" href="/">Baubauhaus.</a>
+      </div>
+      <nav id="main-nav">
+        <ul class="main-menu">
+          
+          <li><a href="/">Wall</a></li>
+          <li class="drop">
+            <span>Collections</span>
+            <ul class="submenu">
+              <li><a href="/photography">Photography</a></li>
+              <li><a href="/graphic-design">Graphic Design</a></li>
+              <li><a href="/illustration">Illustration</a></li>
+              <li><a href="/poster">Poster</a></li>
+              <li><a href="/typography">Typography</a></li>
+              <li><a href="/black-and-white">Black&amp;white</a></li>
+            </ul>
+          </li>
+          <li><a href="/popular/today">Popular</a></li>
+          <li><a href="/about">About</a></li>
+          <li id="search-box">
+            <a href="#search">Search</a>
+            <form action="/search" method="get">
+              <input name="q" class="q" type="text" value="" autocomplete="off" />
+              <input type="submit" class="go" value="Search" />
+            </form>
+          </li>
+        </ul>
+        <ul class="social">
+          <li><a rel="external" href="http://www.facebook.com/baubauhaus">Facebook</a></li>
+          <li><a rel="external" href="http://www.twitter.com/baubauhaus">Twitter</a></li>
+          <li><a rel="external" href="/feed">RSS</a></li>
+        </ul>
+        
+        <span class="pagination">
+          Page &mdash; <strong id="current-page">1</strong> / <strong id="total-pages">298</strong>
+        </span>
+        
+      </nav>
+
+    </header>
+    <section id="content">
+      
+      <h1>Most popular &mdash;</h1>
+      <nav class="popular">
+        <a class="popular selected" href="/popular/today">today</a>	
+        <a class="popular" href="/popular/this-week">this week</a>
+        <a class="popular" href="/popular/this-month">this month</a>
+        <a class="popular" href="/popular/this-year">this year</a>
+      </nav>
+      <nav class="change-size">
+        <span>Image size</span>
+        <a class="change-size" href="/settings/125">S</a>
+        <a class="change-size selected" href="/settings/270">L</a>
+      </nav>      
+      
+      <div class="wall-columns" data-page="1" data-url="/popular/today">
+        
+        <ul id="column-0" class="column first" style="width:270px;">
+                    
+        </ul>
+        
+        <ul id="column-1" class="column " style="width:270px;">
+                    
+        </ul>
+        
+        <ul id="column-2" class="column " style="width:270px;">
+                    
+        </ul>
+        
+        <ul id="column-3" class="column " style="width:270px;">
+                    
+        </ul>
+        
+        <ul id="column-4" class="column " style="width:270px;">
+                    
+        </ul>
+        
+        <ul id="column-5" class="column " style="width:270px;">
+                    
+        </ul>
+        
+        <ul id="column-6" class="column " style="width:270px;">
+                    
+        </ul>
+        
+        <ul id="column-7" class="column last" style="width:270px;">
+                    
+        </ul>
+        
+      </div>
+    </section>
+
+    <script>
+      
+      head.js(
+        "http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
+        "http://static.baubauhaus.com/javascripts/history.min.js",
+        "http://static.baubauhaus.com/javascripts/jquery.plugins.min.js",
+        
+        "http://static.baubauhaus.com/javascripts/baubauhaus.min.js",
+        function() {
+          jQuery(document).ready(function() {  layout.init(); });
+
+          head.js(
+            "http://www.google-analytics.com/ga.js",
+            function() {
+              var tracker = _gat._getTracker("UA-1595815-2");
+              tracker._setDomainName('www.baubauhaus.com');
+              tracker._trackPageview();
+
+              jQuery(document).ready(function() { $(document).ajaxSend(function(event, xhr, settings){ tracker._trackPageview(settings.url); });
+            })
+          });
+
+        }
+      );
+
+      
+
+    </script>
+  </body>
+</html>
