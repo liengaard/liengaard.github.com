@@ -3,21 +3,21 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Liengaard</title>
+    <title>Baubauhaus.</title>
 
-    <meta name="description" content="Liengaard is the family"/>
+    <meta name="description" content="Baubauhaus is here to feed your daily need of design, illustration, photography, fashion and of all else art-related. Our goal is to visually inspire and entertain by promoting great content. It can be anything from your bookmark of images made by others (us), a trend, you - we call it Baubauhaus."/>
 
     <script>
     var a=new Date;if(18==a.getDate()&&0==a.getMonth()&&2012==a.getFullYear())window.location="http://sopastrike.com/strike";
     </script>
 
-    <script src="http://static.Liengaard.com/javascripts/head.min.js"></script>
+    <script src="http://static.baubauhaus.com/javascripts/head.min.js"></script>
 
-    <link rel="image_src" href="http://static.Liengaard.com/images/banner.png" />
-    <link rel="shortcut icon" href="http://static.Liengaard.com/favicon.ico" />
-    <link rel="stylesheet" href="http://static.Liengaard.com/stylesheets/Liengaard.css" type="text/css">
+    <link rel="image_src" href="http://static.baubauhaus.com/images/banner.png" />
+    <link rel="shortcut icon" href="http://static.baubauhaus.com/favicon.ico" />
+    <link rel="stylesheet" href="http://static.baubauhaus.com/stylesheets/baubauhaus.css" type="text/css">
     
-    <link rel="alternate" type="application/atom+xml" title="Liengaard. images feed" href="/feed" />
+    <link rel="alternate" type="application/atom+xml" title="Baubauhaus. images feed" href="/feed" />
     
     <style type="text/css">
       #content             { margin-left:-0px; width:0px;}
@@ -30,7 +30,7 @@
   <body id="wall-page">
     <header>
       <div>
-        <a id="logo" href="/">Liengaard.</a>
+        <a id="logo" href="/">Baubauhaus.</a>
       </div>
       <nav id="main-nav">
         <ul class="main-menu">
@@ -58,8 +58,8 @@
           </li>
         </ul>
         <ul class="social">
-          <li><a rel="external" href="http://www.facebook.com/Liengaard">Facebook</a></li>
-          <li><a rel="external" href="http://www.twitter.com/Liengaard">Twitter</a></li>
+          <li><a rel="external" href="http://www.facebook.com/baubauhaus">Facebook</a></li>
+          <li><a rel="external" href="http://www.twitter.com/baubauhaus">Twitter</a></li>
           <li><a rel="external" href="/feed">RSS</a></li>
         </ul>
         
@@ -94,7 +94,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41448_270.jpg" width="270" height="389" alt="41448" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41448_270.jpg" width="270" height="389" alt="41448" />
             </a>
           </li>
           
@@ -108,7 +108,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41390_270.jpg" width="270" height="369" alt="41390" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41390_270.jpg" width="270" height="369" alt="41390" />
             </a>
           </li>
           
@@ -122,7 +122,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41360_270.jpg" width="270" height="378" alt="41360" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41360_270.jpg" width="270" height="378" alt="41360" />
             </a>
           </li>
           
@@ -136,7 +136,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41293_270.jpg" width="270" height="220" alt="41293" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41293_270.jpg" width="270" height="220" alt="41293" />
             </a>
           </li>
           
@@ -150,7 +150,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41282_270.jpg" width="270" height="382" alt="41282" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41282_270.jpg" width="270" height="382" alt="41282" />
             </a>
           </li>
           
@@ -164,7 +164,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41255_270.jpg" width="270" height="382" alt="41255" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41255_270.jpg" width="270" height="382" alt="41255" />
             </a>
           </li>
           
@@ -178,7 +178,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41142_270.jpg" width="270" height="383" alt="41142" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41142_270.jpg" width="270" height="383" alt="41142" />
             </a>
           </li>
                     
@@ -196,7 +196,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41444_270.jpg" width="270" height="386" alt="41444" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41444_270.jpg" width="270" height="386" alt="41444" />
             </a>
           </li>
           
@@ -210,7 +210,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41396_270.jpg" width="270" height="400" alt="41396" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41396_270.jpg" width="270" height="400" alt="41396" />
             </a>
           </li>
           
@@ -224,7 +224,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41316_270.jpg" width="270" height="387" alt="41316" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41316_270.jpg" width="270" height="387" alt="41316" />
             </a>
           </li>
           
@@ -238,7 +238,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41285_270.jpg" width="270" height="382" alt="41285" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41285_270.jpg" width="270" height="382" alt="41285" />
             </a>
           </li>
           
@@ -252,7 +252,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41261_270.jpg" width="270" height="380" alt="41261" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41261_270.jpg" width="270" height="380" alt="41261" />
             </a>
           </li>
           
@@ -266,7 +266,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41178_270.jpg" width="270" height="382" alt="41178" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41178_270.jpg" width="270" height="382" alt="41178" />
             </a>
           </li>
                     
@@ -284,7 +284,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41441_270.jpg" width="270" height="364" alt="41441" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41441_270.jpg" width="270" height="364" alt="41441" />
             </a>
           </li>
           
@@ -298,7 +298,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41423_270.jpg" width="270" height="349" alt="41423" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41423_270.jpg" width="270" height="349" alt="41423" />
             </a>
           </li>
           
@@ -312,7 +312,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41376_270.jpg" width="270" height="382" alt="41376" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41376_270.jpg" width="270" height="382" alt="41376" />
             </a>
           </li>
           
@@ -326,7 +326,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41306_270.jpg" width="270" height="382" alt="41306" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41306_270.jpg" width="270" height="382" alt="41306" />
             </a>
           </li>
           
@@ -340,7 +340,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41266_270.jpg" width="270" height="383" alt="41266" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41266_270.jpg" width="270" height="383" alt="41266" />
             </a>
           </li>
           
@@ -354,7 +354,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41222_270.jpg" width="270" height="381" alt="41222" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41222_270.jpg" width="270" height="381" alt="41222" />
             </a>
           </li>
                     
@@ -372,7 +372,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41437_270.jpg" width="270" height="202" alt="41437" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41437_270.jpg" width="270" height="202" alt="41437" />
             </a>
           </li>
           
@@ -386,7 +386,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41424_270.jpg" width="270" height="400" alt="41424" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41424_270.jpg" width="270" height="400" alt="41424" />
             </a>
           </li>
           
@@ -400,7 +400,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41379_270.jpg" width="270" height="405" alt="41379" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41379_270.jpg" width="270" height="405" alt="41379" />
             </a>
           </li>
           
@@ -414,7 +414,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41314_270.jpg" width="270" height="382" alt="41314" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41314_270.jpg" width="270" height="382" alt="41314" />
             </a>
           </li>
           
@@ -428,7 +428,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41272_270.jpg" width="270" height="382" alt="41272" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41272_270.jpg" width="270" height="382" alt="41272" />
             </a>
           </li>
           
@@ -442,7 +442,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41242_270.jpg" width="270" height="381" alt="41242" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41242_270.jpg" width="270" height="381" alt="41242" />
             </a>
           </li>
           
@@ -456,7 +456,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41141_270.jpg" width="270" height="360" alt="41141" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41141_270.jpg" width="270" height="360" alt="41141" />
             </a>
           </li>
                     
@@ -474,7 +474,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41436_270.jpg" width="270" height="414" alt="41436" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41436_270.jpg" width="270" height="414" alt="41436" />
             </a>
           </li>
           
@@ -488,7 +488,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41389_270.jpg" width="270" height="344" alt="41389" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41389_270.jpg" width="270" height="344" alt="41389" />
             </a>
           </li>
           
@@ -502,7 +502,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41328_270.jpg" width="270" height="382" alt="41328" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41328_270.jpg" width="270" height="382" alt="41328" />
             </a>
           </li>
           
@@ -516,7 +516,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41287_270.jpg" width="270" height="382" alt="41287" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41287_270.jpg" width="270" height="382" alt="41287" />
             </a>
           </li>
           
@@ -530,7 +530,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41264_270.jpg" width="270" height="384" alt="41264" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41264_270.jpg" width="270" height="384" alt="41264" />
             </a>
           </li>
           
@@ -544,7 +544,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41187_270.jpg" width="270" height="382" alt="41187" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41187_270.jpg" width="270" height="382" alt="41187" />
             </a>
           </li>
                     
@@ -562,7 +562,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41434_270.jpg" width="270" height="385" alt="41434" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41434_270.jpg" width="270" height="385" alt="41434" />
             </a>
           </li>
           
@@ -576,7 +576,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41422_270.jpg" width="270" height="371" alt="41422" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41422_270.jpg" width="270" height="371" alt="41422" />
             </a>
           </li>
           
@@ -590,7 +590,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41361_270.jpg" width="270" height="378" alt="41361" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41361_270.jpg" width="270" height="378" alt="41361" />
             </a>
           </li>
           
@@ -604,7 +604,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41302_270.jpg" width="270" height="391" alt="41302" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41302_270.jpg" width="270" height="391" alt="41302" />
             </a>
           </li>
           
@@ -618,7 +618,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41263_270.jpg" width="270" height="383" alt="41263" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41263_270.jpg" width="270" height="383" alt="41263" />
             </a>
           </li>
           
@@ -632,7 +632,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41186_270.jpg" width="270" height="382" alt="41186" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41186_270.jpg" width="270" height="382" alt="41186" />
             </a>
           </li>
                     
@@ -650,7 +650,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41432_270.jpg" width="270" height="387" alt="41432" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41432_270.jpg" width="270" height="387" alt="41432" />
             </a>
           </li>
           
@@ -664,7 +664,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41392_270.jpg" width="270" height="336" alt="41392" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41392_270.jpg" width="270" height="336" alt="41392" />
             </a>
           </li>
           
@@ -678,7 +678,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41373_270.jpg" width="270" height="382" alt="41373" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41373_270.jpg" width="270" height="382" alt="41373" />
             </a>
           </li>
           
@@ -692,7 +692,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41303_270.jpg" width="270" height="382" alt="41303" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41303_270.jpg" width="270" height="382" alt="41303" />
             </a>
           </li>
           
@@ -706,7 +706,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41265_270.jpg" width="270" height="381" alt="41265" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41265_270.jpg" width="270" height="381" alt="41265" />
             </a>
           </li>
           
@@ -720,7 +720,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41192_270.jpg" width="270" height="382" alt="41192" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41192_270.jpg" width="270" height="382" alt="41192" />
             </a>
           </li>
                     
@@ -738,7 +738,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41431_270.jpg" width="270" height="445" alt="41431" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41431_270.jpg" width="270" height="445" alt="41431" />
             </a>
           </li>
           
@@ -752,7 +752,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41387_270.jpg" width="270" height="384" alt="41387" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41387_270.jpg" width="270" height="384" alt="41387" />
             </a>
           </li>
           
@@ -766,7 +766,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41315_270.jpg" width="270" height="381" alt="41315" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41315_270.jpg" width="270" height="381" alt="41315" />
             </a>
           </li>
           
@@ -780,7 +780,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41283_270.jpg" width="270" height="382" alt="41283" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41283_270.jpg" width="270" height="382" alt="41283" />
             </a>
           </li>
           
@@ -794,7 +794,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41260_270.jpg" width="270" height="384" alt="41260" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41260_270.jpg" width="270" height="384" alt="41260" />
             </a>
           </li>
           
@@ -808,7 +808,7 @@
                 
                 
               </div>
-              <img class="image-wrapper" src="http://static.Liengaard.com/images/blank.png" data-src="http://static.Liengaard.com/assets/41161_270.jpg" width="270" height="405" alt="41161" />
+              <img class="image-wrapper" src="http://static.baubauhaus.com/images/blank.png" data-src="http://static.baubauhaus.com/assets/41161_270.jpg" width="270" height="405" alt="41161" />
             </a>
           </li>
                     
@@ -821,10 +821,10 @@
       
       head.js(
         "http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
-        "http://static.Liengaard.com/javascripts/history.min.js",
-        "http://static.Liengaard.com/javascripts/jquery.plugins.min.js",
+        "http://static.baubauhaus.com/javascripts/history.min.js",
+        "http://static.baubauhaus.com/javascripts/jquery.plugins.min.js",
         
-        "http://static.Liengaard.com/javascripts/Liengaard.min.js",
+        "http://static.baubauhaus.com/javascripts/baubauhaus.min.js",
         function() {
           jQuery(document).ready(function() {  layout.init(); });
 
@@ -832,7 +832,7 @@
             "http://www.google-analytics.com/ga.js",
             function() {
               var tracker = _gat._getTracker("UA-1595815-2");
-              tracker._setDomainName('www.Liengaard.com');
+              tracker._setDomainName('www.baubauhaus.com');
               tracker._trackPageview();
 
               jQuery(document).ready(function() { $(document).ajaxSend(function(event, xhr, settings){ tracker._trackPageview(settings.url); });
